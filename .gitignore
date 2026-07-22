@@ -1,0 +1,22 @@
+# Python 虚拟环境
+.venv/
+venv/
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 生成的图片、临时文件
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# uv 环境缓存（可选，一般不用屏蔽）
+
+
+# 系统文件
+.DS_Store
+Thumbs.db
